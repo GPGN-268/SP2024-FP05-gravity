@@ -10,8 +10,13 @@
 <br> Problem statement, question(s), and/or objectives
 
 -Datadets
+<br>
 -Tools/packages
+<br>
 -Plannes Methodology/approach
+<br>
 -Expected Outcomes
+<br>
 -Any other relevant info
+<br>
 -References
