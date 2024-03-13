@@ -11,12 +11,17 @@
 
 -Datasets
 <br>
+
 -Tools/packages
-<br>
+<br>Pandas(https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html), Numpy(https://numpy.org/), Matplotlib(https://matplotlib.org/)
+
 -Plannes Methodology/approach
 <br>
 -Expected Outcomes
-<br>
+<br>The Tohoku-Oki earthquake had the largest change in observed gravity before the earthquake, out of the three earthquakes whose data our group will analyze. All three datasets should show that there is a change in observed gravity before large earthquakes.
+
 -Any other relevant info
-<br>
+<br>The group will need to be aware of the data's temporal and spatial resolution. Gravity changes vary across different time scales and spatial ranges, impacting your analysis.
+
 -References
+
