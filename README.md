@@ -9,7 +9,7 @@ The purpose of this project is to compare observed gravity changes before earthq
 
 ### Introduction
 
-Multiple datasets with earthquake and gravity data were analyzed to show how gravity changes before different earthquakes. The earthquakes analyzed are the Tohoku-Oki and Sendai Earthquake, and the Lushan Earthquake. 
+Multiple datasets with earthquake and gravity data were analyzed to show how gravity changes before/after different earthquakes. The earthquakes analyzed are the Tohoku-Oki and Sendai Earthquake, and the Lushan Earthquake. 
 
 ### Datasets
 
@@ -38,7 +38,7 @@ The group will need to be aware of the data's temporal and spatial resolution. G
 
 ### References: 
 Tohoku-Oki / Sendai Earthquake Gravity Field Changes:
-[1] “Tohoku-Oki / Sendai Earthquake Data Now Available,” Global Geodynamics Project: Sumatra Data Now Available, https://www.eas.slu.edu/GGP/tohoku2011.html (accessed Mar. 27, 2024). 
+[1] J.-P. Montagner et al., “Prompt gravity signal induced by the 2011 Tohoku-Oki earthquake,” Nature News, https://www.nature.com/articles/ncomms13349 (accessed Apr. 1, 2024). 
 
 Gravity Field Changes before 2013 Lushan Earthquake:  
 [2] L. Wang et al., “Gravity field changes reveal deep mass transfer before and after the 2013 Lushan earthquake,” Nature News, https://www.nature.com/articles/s43247-023-00860-z (accessed Mar. 27, 2024). 
