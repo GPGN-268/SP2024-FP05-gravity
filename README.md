@@ -11,6 +11,15 @@ The purpose of this project is to compare observed gravity changes before and af
 
 Multiple datasets with earthquake and gravity data were analyzed to show how gravity changes before/after different earthquakes. The earthquakes analyzed are the Tohoku-Oki Earthquake off the coast of Japan (magnitude 9.0) and the Lushan Earthquake in China (magnitude 7.0). 
 
+### How to use this repository
+
+- Data sources are availible in the README file to download
+- Code for figure development with this data is availible in the notebooks folder
+- Resulting figures are in the figures folder
+- Dev folder contains initial exploration of the data
+- Environment is held in environment.yml
+- Overall presentation is in notebooks/FP05-Presentation
+
 ### Datasets
 
 [Lushan Data](https://zenodo.org/records/7855090)
@@ -40,19 +49,19 @@ The Tohoku-Oki earthquake had the largest change in observed gravity before the 
 
 The group will need to be aware of the data's temporal and spatial resolution. Gravity changes vary across different time scales and spatial ranges, impacting your analysis. There will also be seismic noise, specifically for the Tohoku-Oki Earthquake data.
 
-### References: 
-Tohoku-Oki / Sendai Earthquake Gravity Field Changes:
-[1] J.-P. Montagner et al., “Prompt gravity signal induced by the 2011 Tohoku-Oki earthquake,” Nature News, https://www.nature.com/articles/ncomms13349 (accessed Apr. 1, 2024). 
-
-Gravity Field Changes before 2013 Lushan Earthquake:  
-[2] L. Wang et al., “Gravity field changes reveal deep mass transfer before and after the 2013 Lushan earthquake,” Nature News, https://www.nature.com/articles/s43247-023-00860-z (accessed Mar. 27, 2024). 
-
-How Earthquakes Deform Gravity: 
-[3] “How earthquakes deform gravity,” Phys.org, https://phys.org/news/2020-02-earthquakes-deform-gravity.html (accessed Mar. 27, 2024). 
-
 ### Contributions
 
 - Kaitlyn: Mainly focused on analyzing the Lushan Earthquake. Found research paper and data, opened and parsed the data, and developed two figures to show findings about the research paper. Contributed to the developement and presentation of the research video.
 
 - Bianca: Focused on the analysis of the Tohoku-Oki Earthquake. This included researching the earthquake, exploring and visualizing the data, and developing three figures aimed to help show the findings of the research. Also helped develope and present the research video.
+
+### References:
+Tohoku-Oki / Sendai Earthquake Gravity Field Changes:
+[1] J.-P. Montagner et al., “Prompt gravity signal induced by the 2011 Tohoku-Oki earthquake,” Nature News, https://www.nature.com/articles/ncomms13349 (accessed Apr. 1, 2024).
+
+Gravity Field Changes before 2013 Lushan Earthquake:
+[2] L. Wang et al., “Gravity field changes reveal deep mass transfer before and after the 2013 Lushan earthquake,” Nature News, https://www.nature.
+
+How Earthquakes Deform Gravity:
+[3] “How earthquakes deform gravity,” Phys.org, https://phys.org/news/2020-02-earthquakes-deform-gravity.html (accessed Mar. 27, 2024.
 
