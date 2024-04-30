@@ -1,0 +1,13 @@
+name: GPGN268 - Group05-gravity
+channels:
+ - conda-forge
+dependencies:
+ - python=3.10*
+ - pip
+ - cartopy >= 0.20.0
+ - jupyterlab
+ - matplotlib-base
+ - numpy
+ - pandas
+ - scipy
+ - xarray
