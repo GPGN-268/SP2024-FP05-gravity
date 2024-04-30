@@ -3,6 +3,7 @@
 ## Comparing Gravity Changes Before Earthquakes
 ### Bianca Riebe @biancaann6 and Kaitlyn Manalili @kmanalili
 
+### [Binder](https://mybinder.org/v2/gh/GPGN-268/SP2024-FP05-gravity/HEAD?labpath=environment.yml)
 ### Problem Objective
 
 The purpose of this project is to compare observed gravity changes before earthquakes. 
